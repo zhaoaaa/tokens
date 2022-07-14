@@ -1,0 +1,20 @@
+{
+  "description": "Fallen-Elephant",
+  "image": "https://storageapi.fleek.co/4e76b4d6-2eaa-4096-8bcf-95ba2cbc007e-bucket/Fallen-Spy.png",
+  "name": "Mdex Meta-Elephant",
+  "properties": {
+    "attributes": {
+      "description": "N",
+      "type": "string"
+    },
+    "ipfs": {
+      "description": "https://ipfs.fleek.co/ipfs/bafybeighsynmn73vv6jvwradjd5ypw2c7xdkeevt3wmsag2l465jsnqcqm",
+      "type": "string"
+    },
+    "name": {
+      "description": "Fallen Spy",
+      "type": "string"
+    }
+  },
+  "attributes": []
+}
